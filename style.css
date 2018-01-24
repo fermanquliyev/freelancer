@@ -126,32 +126,6 @@ a:visited, a:active, a:focus{
 }
 
 }
-@media screen and (max-width: 992px){
-	.nav-menu{
-		display: none;
-	}
-	.nav-button{
-	display: block;
-	}
-	.logo{
-	font-size: 1.7em;
-	}
-}
-@media screen and (max-width: 425px){
-.main h1{
-	font-size: 3em !important;
-}
-.main p{
-	font-size: 1.6em !important;
-}
-.content h2{
-	font-size: 2.5em !important;
-}
-.about h2{
-	font-size: 2.5em !important;
-}
-
-}
 @media screen and (max-width: 417px){
 	.nav-menu{
 		display: none;
